@@ -1,5 +1,5 @@
-Django gRPC Framework
-=====================
+Django gRPC Framework Secure
+============================
 
 .. image:: https://img.shields.io/pypi/v/djangogrpcframework.svg
    :target: https://img.shields.io/pypi/v/djangogrpcframework.svg
@@ -16,8 +16,9 @@ Django gRPC Framework
 .. image:: https://img.shields.io/pypi/l/djangogrpcframework
    :target: https://img.shields.io/pypi/l/djangogrpcframework
 
-Django gRPC framework is a toolkit for building gRPC services, inspired by
-djangorestframework.
+Fork of the django-grpc-framework_ repository with the ability to create a secure connection
+
+.. _django-grpc-framework: https://github.com/fengsp/django-grpc-framework
 
 
 Requirements
