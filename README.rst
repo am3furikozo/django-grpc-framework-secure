@@ -33,6 +33,7 @@ Installation
 ------------
 
 .. code-block:: bash
+
     $ pip install git+https://github.com/lizaburther/django-grpc-framework-secure.git@master#egg=django-grpc-framework
 
 Add ``django_grpc_framework`` to ``INSTALLED_APPS`` setting:
