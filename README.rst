@@ -16,7 +16,7 @@ Django gRPC Framework Secure
 .. image:: https://img.shields.io/pypi/l/djangogrpcframework
    :target: https://img.shields.io/pypi/l/djangogrpcframework
 
-Fork of the django-grpc-framework_ repository with the ability to create a secure connection
+Fork of the django-grpc-framework_ repository with the ability to create a secure connection.
 
 .. _django-grpc-framework: https://github.com/fengsp/django-grpc-framework
 
@@ -33,8 +33,7 @@ Installation
 ------------
 
 .. code-block:: bash
-    
-    $ pip install djangogrpcframework
+    $ pip install git+https://github.com/lizaburther/django-grpc-framework-secure.git@master#egg=django-grpc-framework
 
 Add ``django_grpc_framework`` to ``INSTALLED_APPS`` setting:
 
